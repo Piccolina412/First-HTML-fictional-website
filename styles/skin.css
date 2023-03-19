@@ -1,0 +1,27 @@
+.skin {
+
+	text-align: center;
+	background-image: url('../images/skin.jpg');
+	background-size: cover;	
+	height: 30vh;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-decoration: none;
+	margin: 0;
+}
+
+.skin a {
+
+	font: italic 1.2em "Fira Sans", serif;
+    color: black;
+    font-weight: bold;
+    text-shadow: 0 0 black;
+    background-color: #C8AC99;
+    padding: 16px;
+    border-radius: 6px;
+    text-decoration: none;
+    
+}

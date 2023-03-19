@@ -1,0 +1,260 @@
+@import "banner.css";
+@import "cards.css";
+@import "header.css";
+@import "footer.css";
+@import "buttons.css";
+@import "buttons2.css";
+@import"skin.css";
+
+body {
+	margin: 0;
+}
+
+
+.main {
+	font : italic 1.2em "Fira Sans", serif;
+	text-align: center;
+	background-color: black;
+	padding: 15px;
+}
+
+.main h2{
+	color: white;
+	text-shadow: 1px 1px 1px black;
+}
+
+.second {
+	background-color: black;
+	font : italic 1.2em "Fira Sans", serif;;
+	text-align: center;
+	padding: 15px;
+}
+
+.second h1 {
+
+	color: white;
+	text-shadow: 1px 1px 1px black;
+}
+
+.second p {
+
+	color: white;
+}
+
+.third h1 {
+
+	color: white;
+	font : italic 1.2em "Fira Sans", serif;;
+	text-align: center;
+	background-color: black;
+	padding: 15px;
+	margin: 0;
+}
+
+.fourth {
+
+	background-color: black;
+	background-size: cover;
+	display: grid;
+
+ }
+
+.fourth h2 {
+
+	color: black;
+	font : italic 1.2em "Fira Sans", serif;;
+	text-align: center;
+	background-color: #F7DFCF;
+	padding: 15px;
+	margin: 0;
+}
+
+.fourth img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.fifth {
+
+	background-color: black;
+	background-size: cover;
+	display: grid;
+}
+
+.fifth h2 {
+
+	color: black;
+	font : italic 1.2em "Fira Sans", serif;;
+	text-align: center;
+	background-color: #F7DFCF;
+	padding: 15px;
+	margin: 0;
+
+}
+
+.fifth img {
+
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.sixth {
+
+	background-color: black;
+	background-size: cover;
+	display: grid;
+
+}
+
+.sixth h2 {
+
+	color: black;
+	font : italic 1.2em "Fira Sans", serif;
+	background-color: #F7DFCF;
+	padding: 15px;
+	margin: 0;
+
+}
+
+.sixth img {
+
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.seventh {
+
+	background-color: black;
+	background-size: cover;
+	display: grid;
+}
+
+.seventh h2 {
+
+	color: black;
+	font : italic 1.2em "Fira Sans", serif;
+	text-align: center;
+	background-color: #F7DFCF;
+	padding: 15px;
+	margin: 0;
+
+	
+}
+
+.seventh img {
+
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.seventh p {
+
+	color: black;
+	text-align: center;
+ 	background-color: pink;
+ 	padding: 10px;
+ 	border-radius: 10px;
+
+}
+
+.eighth {
+ 	
+ 	background-color: black;
+ 	background-size: cover;
+	display: grid;
+
+}
+
+.eighth h2 {
+
+	color: black;
+	font : italic 1.2em "Fira Sans", serif;
+	text-align: center;
+	background-color: #F7DFCF;
+	padding: 15px;
+	margin: 0;
+}
+
+.eighth img {
+
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.eighth p {
+ 	
+ 	color: black;
+ 	text-align: center;
+ 	background-color: pink;
+ 	padding: 10px;
+ 	border-radius: 10px;
+
+}
+
+.nineth {
+
+	background-color: black;
+	background-size: cover;
+	display: grid;
+
+}
+
+.nineth h2 {
+
+	color: black;
+	font : italic 1.2em "Fira Sans", serif;
+	text-align: center;
+	background-color: #F7DFCF;
+	padding: 15px;
+	margin: 0;
+
+}
+
+.nineth img { 
+
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.tenth h1 {
+
+	color: white;
+	font : italic 1.2em "Fira Sans", serif;;
+	text-align: center;
+	background-color: black;
+	padding: 15px;
+	margin: 0;
+
+}
+

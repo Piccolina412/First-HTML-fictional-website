@@ -1,0 +1,11 @@
+.button2 {
+
+	font: italic 1.2em "Fira Sans", serif;
+    color: black;
+    font-weight: bold;
+    text-shadow: 0 0 black;
+    background-color: #D6C2B4;
+    padding: 16px;
+    border-radius: 6px;
+    
+}
